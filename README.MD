@@ -1,1 +1,10 @@
-# dotfiles\n os : arch\nwm : i3-gaps\nbar : i3-bar (disabled)\nterm : kitty\nshell: bash\neditor : Vim\nfont : JetBrainsMono\nlauncher : rofi\nfile manager : ranger
+# dotfiles
+os : arch
+wm : i3-gaps
+bar : i3-bar (disabled)
+term : kitty
+hell: bash
+editor : vim
+font : jetbrains mono
+launcher : rofi
+file manager : ranger
