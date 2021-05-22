@@ -2,7 +2,7 @@
 
 + os               : arch
 + wm               : i3-gaps
-+ bar               : i3-bar
++ bar               : i3-bar (disabled)
 + term         : kitty
 + editor           : vim
 + launcher     : rofi
